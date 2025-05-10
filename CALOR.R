@@ -1,3 +1,8 @@
+# Autor: Tamara Sepúlveda
+# Año: 2025
+# Licencia: MIT License
+# Descripción: Cálculo de temperatura superficial (LST) desde Banda 10 de Landsat y conversión a grados Celsius.
+
 install.packages("terra")
 library(terra)
 
